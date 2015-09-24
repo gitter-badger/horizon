@@ -108,3 +108,8 @@ The source is maintained in the ``doc/source`` folder using
     $ sphinx-build -b html doc/source build/sphinx/html
 
 Results are in the `build/sphinx/html` directory
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/openstack-ja/horizon
+   :target: https://gitter.im/openstack-ja/horizon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
